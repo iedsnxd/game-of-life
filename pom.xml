@@ -509,7 +509,7 @@
             </reporting>
         </profile>
         <profile>
-            <id>metrics</id>
+            <id>metrics2</id>
             <build>
                 <plugins>
                     <plugin>
